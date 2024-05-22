@@ -1,2 +1,2 @@
 # VimConfig
-Vim editor configuration for linux enviroment
+Configuration for the text editor Vim for linux enviroment
